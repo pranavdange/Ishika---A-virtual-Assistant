@@ -5,5 +5,5 @@ Aimed at creating a virtual voice assistant using python libraries with conversa
 
 Technologies used - Python, pycharm, pyttsx3, pywhatkit, datetime, wikipedia library, pyjokes, smtplib library
 
-This is a small fun demo attached.
+There is a small fun demo attached.
 
